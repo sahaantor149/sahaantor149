@@ -1,16 +1,29 @@
-### Hi there 👋
+# Hello, I'm Antor Saha! 👋
 
-<!--
-**sahaantor149/sahaantor149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Full-stack Web Developer with expertise in PHP, Laravel, and WordPress. Transforming ideas into seamless digital experiences is my forte. 
 
-Here are some ideas to get you started:
+## 🚀 What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Craft dynamic and scalable web solutions
+- Specialize in PHP, Laravel, and WordPress development
+- Transform concepts into captivating online experiences
+
+## 💻 Technologies & Tools
+
+- **Languages:** PHP, JavaScript
+- **Frameworks:** Laravel
+- **CMS:** WordPress
+- **Database:** MySQL
+- **Version Control:** Git
+
+## 🌐 Let's Connect
+
+- LinkedIn: [Antor Saha](https://linkedin.com/in/sahaantor149/)
+- Instagram: [sahaantor149](https://www.instagram.com/sahaantor149/)
+- Facebook: [Antor Saha](https://www.instagram.com/sahaantor149/)
+
+## 📈 GitHub Stats
+
+![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+
+Feel free to explore my repositories and let's collaborate on something amazing! 🌟

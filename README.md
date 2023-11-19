@@ -24,6 +24,6 @@ I'm a passionate Full-stack Web Developer with expertise in PHP, Laravel, and Wo
 
 ## 📈 GitHub Stats
 
-![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true)
+![Antor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sahaantor149&show_icons=true&count_private=true)
 
 Feel free to explore my repositories and let's collaborate on something amazing! 🌟

@@ -1,6 +1,6 @@
 # Hello, I'm Antor Saha! 👋
 
-I'm a passionate Full-stack Web Developer with PHP, Laravel, and WordPress expertise. Transforming ideas into seamless digital experiences is my forte. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented, and I always work with an end goal in mind. 
+I'm a passionate full-stack web developer with PHP, Laravel, and WordPress expertise. Transforming ideas into seamless digital experiences is my forte. I am passionate about learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic and goal-oriented and always work with an end goal in mind. 
 
 ## 🚀 What I Do
 
@@ -10,9 +10,9 @@ I'm a passionate Full-stack Web Developer with PHP, Laravel, and WordPress exper
 
 ## 💻 Technologies & Tools
 
-- **Languages:** PHP, JavaScript
-- **Frameworks:** Laravel
-- **CMS:** WordPress
+- **Languages:** PHP, JavaScript, Java
+- **Frameworks:** Laravel, React JS
+- **CMS:** WordPress, Joomla
 - **Database:** MySQL
 - **Version Control:** Git
 

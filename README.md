@@ -5,7 +5,7 @@ I'm a passionate full-stack web developer with PHP, Laravel, and WordPress exper
 ## 🚀 What I Do
 
 - Craft dynamic and scalable web solutions
-- Specialize in PHP, Laravel, and WordPress development
+- Specialize in PHP, Laravel, React JS, WordPress and Joomla development
 - Transform concepts into captivating online experiences
 
 ## 💻 Technologies & Tools
